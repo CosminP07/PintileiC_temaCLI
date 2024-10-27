@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cosmin\\Desktop\\temeEGC\\PintileiC_temaCLI\\Aplicatie_laborator03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD2A8F05-D581-443A-9199-C80915C0B07B}|OpenTK_immediate_mode\\OpenTK_immediate_mode.csproj|c:\\users\\cosmin\\desktop\\temeegc\\pintileic_temacli\\aplicatie_laborator03\\opentk_immediate_mode\\immediatemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD2A8F05-D581-443A-9199-C80915C0B07B}|OpenTK_immediate_mode\\OpenTK_immediate_mode.csproj|solutionrelative:opentk_immediate_mode\\immediatemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImmediateMode.cs",
+              "DocumentMoniker": "C:\\Users\\Cosmin\\Desktop\\temeEGC\\PintileiC_temaCLI\\Aplicatie_laborator03\\OpenTK_immediate_mode\\ImmediateMode.cs",
+              "RelativeDocumentMoniker": "OpenTK_immediate_mode\\ImmediateMode.cs",
+              "ToolTip": "C:\\Users\\Cosmin\\Desktop\\temeEGC\\PintileiC_temaCLI\\Aplicatie_laborator03\\OpenTK_immediate_mode\\ImmediateMode.cs",
+              "RelativeToolTip": "OpenTK_immediate_mode\\ImmediateMode.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv08AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T20:36:47.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

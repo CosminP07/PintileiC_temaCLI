@@ -1,0 +1,39 @@
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe.config
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.dll
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.xml
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CoreCompileInputs.cache
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CopyComplete
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.exe
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.pdb
+C:\Users\epoc3\Documents\MotorSkill_WPF\TO DO\EGC\Labs 2018-2019\Lab 05\tmp\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csprojAssemblyReference.cache
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe.config
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.pdb
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.dll
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.pdb
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.xml
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_i.A6DAB0E1.Up2Date
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.exe
+C:\Users\Cosmin\Desktop\OpenTK_Introducere\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.pdb
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe.config
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.exe
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK_immediate_mode.pdb
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK.dll
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK.pdb
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK.xml
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\obj\Debug\OpenTK_i.A6DAB0E1.Up2Date
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.exe
+C:\Users\Cosmin\Desktop\temeEGC\PintileiC_temaCLI\Aplicatie_laborator03\OpenTK_immediate_mode\obj\Debug\OpenTK_immediate_mode.pdb
