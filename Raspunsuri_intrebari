@@ -1,0 +1,22 @@
+# PintileiC_temaCLI
+1.Modificarea constantei MatrixMode.Projection este interzisă
+3. 
+3.1. Ce este un viewport?
+      Un viewport este regiunea de pe fereastră în care sunt desenate obiectele.
+3.2. Ce reprezintă conceptul de frames per seconds din punctul de vedere al bibliotecii OpenGL?
+      Frames per seconds reprezintă numărul de cadre randate și reprezintă o măsură a performanței.
+3.3. Când este rulată metoda OnUpdateFrame()?
+      Metoda este rulată înaintea randării fiecărui cadru.
+3.4. Ce este modul imediat de randare?
+     Modul imediat de randare este o metodă de desen în care comenzile de randare sunt trimise direct către pipeline-ul grafic, specificând vârfurile fiecărui obiect randat.
+3.5. Care este ultima versiune de OpenGL care acceptă modul imediat?
+      OpenGL 3.1
+3.6. Când este rulată metoda OnRenderFrame()?
+      Metoda OnRenderFrame() desenează fiecare cadru pe ecran și este apelată după fiecare OnUpdateFrame().
+3.7. De ce este nevoie ca metoda OnResize() să fie apelată cel puțin o dată?
+      Metoda OnResize() trebuie apelată cel puțin o dată pentru a seta corect viewport-ul la deschiderea aplicației.
+3.8. Ce reprezintă parametrii metodei CreatePerspectiveFieldOfView() și care este domeniul de valori pentru aceștia?
+      fieldOfViewY - unghiul de deschidere al câmpului vizual pe axa Y (valori obișnuite între 30 - 120 grade, normale între 45 - 60 grade)
+      aspectRatio - raportul dintre lățimea și înălțimea ferestrei
+      zNear - distanță față de planul apropiat al frustumului (0.1 - 1)
+      zFar - distanță față de planul îndepărtat al frustumului (100 - 1000)
