@@ -1,0 +1,80 @@
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\OpenTK.dll
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\OpenTK.pdb
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\OpenTK.xml
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\badger\source\repos\ConsoleApp3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\badger\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Users\badger\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\badger\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CopyComplete
+C:\Users\badger\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\badger\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\ConsoleApp3.exe.config
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\ConsoleApp3.exe
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\ConsoleApp3.pdb
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\OpenTK.dll
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\OpenTK.GLControl.dll
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\OpenTK.pdb
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\OpenTK.xml
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\OpenTK.GLControl.pdb
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\bin\Debug\OpenTK.GLControl.xml
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\obj\Debug\ConsoleApp3.csproj.CopyComplete
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\obj\Debug\ConsoleApp3.exe
+D:\workspace\csharp\OpenTK\Full_obj_deployment_OpenTK\obj\Debug\ConsoleApp3.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\ConsoleApp3.exe.config
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\ConsoleApp3.exe
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\ConsoleApp3.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\OpenTK.dll
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\OpenTK.GLControl.dll
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\OpenTK.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\OpenTK.xml
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\OpenTK.GLControl.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\bin\Debug\OpenTK.GLControl.xml
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\obj\Debug\ConsoleApp3.csproj.CopyComplete
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\obj\Debug\ConsoleApp3.exe
+D:\workspace\csharp\OpenTK\OpenTK - Axes, grid\obj\Debug\ConsoleApp3.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\ConsoleApp3.exe.config
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\ConsoleApp3.exe
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\ConsoleApp3.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\OpenTK.dll
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\OpenTK.GLControl.dll
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\OpenTK.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\OpenTK.xml
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\OpenTK.GLControl.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\OpenTK.GLControl.xml
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\obj\Debug\ConsoleApp3.csproj.CopyComplete
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\obj\Debug\ConsoleApp3.exe
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\obj\Debug\ConsoleApp3.pdb
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\assets\soccer_ball.obj
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\assets\lowpolytree.obj
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\assets\bottle_cap_obj.obj
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\assets\slime.obj
+D:\workspace\csharp\OpenTK\OpenTK - Lab 05\bin\Debug\assets\volleyball.obj
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\assets\soccer_ball.obj
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\assets\lowpolytree.obj
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\assets\bottle_cap_obj.obj
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\assets\slime.obj
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\assets\volleyball.obj
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\ConsoleApp3.exe
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\ConsoleApp3.pdb
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\OpenTK.dll
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\OpenTK.pdb
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\OpenTK.xml
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\obj\Debug\ConsoleA.88426B56.Up2Date
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\obj\Debug\ConsoleApp3.exe
+C:\Users\Cosmin\Desktop\OpenTK - Lab 05\obj\Debug\ConsoleApp3.pdb
