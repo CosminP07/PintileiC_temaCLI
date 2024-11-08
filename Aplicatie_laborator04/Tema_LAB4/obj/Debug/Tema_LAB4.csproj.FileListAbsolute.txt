@@ -1,0 +1,11 @@
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\obj\Debug\Tema_LAB4.csproj.AssemblyReference.cache
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\obj\Debug\Tema_LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\bin\Debug\Tema_LAB4.exe.config
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\bin\Debug\Tema_LAB4.exe
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\bin\Debug\Tema_LAB4.pdb
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\bin\Debug\OpenTK.dll
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\bin\Debug\OpenTK.pdb
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\bin\Debug\OpenTK.xml
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\obj\Debug\Tema_LAB4.csproj.Up2Date
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\obj\Debug\Tema_LAB4.exe
+C:\Users\Cosmin\Desktop\Lab4_EGC\Tema_LAB4\Tema_LAB4\obj\Debug\Tema_LAB4.pdb
