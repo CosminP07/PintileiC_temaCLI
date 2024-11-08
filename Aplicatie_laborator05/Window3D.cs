@@ -180,6 +180,7 @@ namespace ConsoleApp3
             Console.WriteLine(" (V) - schimbare vizibilitate linii");
             Console.WriteLine(" (W,A,S,D) - deplasare camera (izometric)");
             Console.WriteLine(" (G) - schimbă culorile triunghiului");
+            Console.WriteLine(" (J) - schimbă culorile unei fete ale cubului");
         }
     }
 
